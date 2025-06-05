@@ -11,7 +11,9 @@ O programa inclui as funções de:
 4. Sair do programa.
 
 # Tecnologias utilizadas: 
-Linguagem C.
+- Linguagem C; 
+- Dev-C++;
+- Visual Studio Code.
 
 # Passo a passo: 
 
