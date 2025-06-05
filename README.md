@@ -18,3 +18,7 @@ Passo 2: Escolha uma das opções do menu interativo, (1 - cadastrar, 2 - listar
 Passo 3: Ao escolher o cadastro escolha qual posição dos cadastros você quer ocupar, em seguida dê a ele um nome, idade e altura.
 
 Passo 4: Após isso podera procurar por ele ou verificar em qual posição dos cadastros ele se encontra.
+
+# Autor e Licença:
+
+Nicolas Paulo Portulan de Araujo.
