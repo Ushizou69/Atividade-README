@@ -7,7 +7,7 @@
 ## O programa inclui as funções de: 
 1. Cadastro de usuários limitando a dez usuários usando nome (limitado a 50 caracteres), altura e idade;
 2. Listar todos os usuários, mostrando seu nome completo, idade, altura e em qual posição se encontra;
-3. Buscar um usuário pelo nome completo;
+3. Buscar um usuário pelo nome completo.
 
 # Tecnologias utilizadas: 
 - Linguagem C; 
