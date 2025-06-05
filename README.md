@@ -6,7 +6,7 @@
 
 ## O programa inclui as funções de: 
 1. Cadastro de usuários limitando a dez usuários usando nome (limitado a 50 caracteres), altura e idade;
-2. Funções de listar todos os usuários;
+2. Funções de listar todos os usuários, mostrando seu nome completo, idade e altura;
 3. Buscar um usuário pelo nome completo;
 4. Sair do programa.
 
@@ -23,7 +23,7 @@ Passo 2: Escolha uma das opções do menu interativo, (1 - cadastrar, 2 - listar
 
 Passo 3: Ao escolher o cadastro escolha qual posição dos cadastros você quer ocupar, em seguida dê a ele um nome, idade e altura.
 
-Passo 4: Após isso podera procurar por ele ou verificar em qual posição dos cadastros ele se encontra.
+Passo 4: Após isso poderá procurar por ele ou verificar em qual posição dos cadastros ele se encontra. através da listagem de todos os usuários.
 
 # Autor e Licença:
 
