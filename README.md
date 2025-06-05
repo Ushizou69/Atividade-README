@@ -17,7 +17,7 @@
 
 # Passo a passo: 
 
-Passo 1: Abra um compilador de linguagem C.
+Passo 1: Abra um compilador de linguagem C (Como Dev-C++ ou VS Code).
 
 Passo 2: Escolha uma das opções do menu interativo, (1 - cadastrar, 2 - listar todos os clientes, 3 - buscar um cliente pelo nome ou 4 - sair.)
 
