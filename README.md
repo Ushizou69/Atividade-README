@@ -4,7 +4,11 @@
 
 # Descrição:
 
-Ele faz o cadastro de usuários limitando a dez usuários, usando nome (limitado a 50 caracteres), idade e sua altura. Ele tem as funções de listar todos os usuários, buscar um usuário pelo nome e sair do programa.
+O programa inclui as funções de: 
+1. Cadastro de usuários limitando a dez usuários usando nome (limitado a 50 caracteres), altura e idade;
+2. Funções de listar todos os usuários;
+3. Buscar um usuário pelo nome completo;
+4. Sair do programa.
 
 # Tecnologias utilizadas: 
 Linguagem C.
