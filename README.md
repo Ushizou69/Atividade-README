@@ -4,7 +4,7 @@
 
 # Descrição:
 
-O programa inclui as funções de: 
+## O programa inclui as funções de: 
 1. Cadastro de usuários limitando a dez usuários usando nome (limitado a 50 caracteres), altura e idade;
 2. Funções de listar todos os usuários;
 3. Buscar um usuário pelo nome completo;
